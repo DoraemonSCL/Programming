@@ -1,0 +1,271 @@
+{
+  "configs": [
+    {
+      "server": "au1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "澳大利亚 1,数据用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "au1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "澳大利亚 1,数据用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "au1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "澳大利亚 1,数据用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "au1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "澳大利亚 1,数据用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "de1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "德国 1,数据用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "hk3-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港 3,数据用量倍率:0.01",
+      "timeout": 5
+    },
+    {
+      "server": "hk5-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港 5,数据用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "jp1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "日本 1,数据用量倍率:1.50",
+      "timeout": 5
+    },
+    {
+      "server": "jp2-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "日本 2,数据用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "jp3-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "日本 3,数据用量倍率:0.50",
+      "timeout": 5
+    },
+    {
+      "server": "nl1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "荷兰 1,数据用量倍率:0.10",
+      "timeout": 5
+    },
+    {
+      "server": "ru1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "俄罗斯 1,数据用量倍率:1.20",
+      "timeout": 5
+    },
+    {
+      "server": "uk1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "英国 1,数据用量倍率:0.10",
+      "timeout": 5
+    },
+    {
+      "server": "us1-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国 1,数据用量倍率:0.01",
+      "timeout": 5
+    },
+    {
+      "server": "us2-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国 2,数据用量倍率:0.01",
+      "timeout": 5
+    },
+    {
+      "server": "us3-sta70.rtix5.space",
+      "server_port": 40005,
+      "password": "Fp7pu5UDNPeXUk8",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国 3,数据用量倍率:0.01",
+      "timeout": 5
+    },
+    {
+      "server": "us01.jiasudu.pw",
+      "server_port": 17625,
+      "password": "573239182shen",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "us02.jiasudu.pw",
+      "server_port": 17625,
+      "password": "573239182shen",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "sg01.jiasudu.pw",
+      "server_port": 17625,
+      "password": "573239182shen",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "kr01.jiasudu.pw",
+      "server_port": 17625,
+      "password": "573239182shen",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "hk01.jiasudu.pw",
+      "server_port": 17625,
+      "password": "573239182shen",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "de01.jiasudu.pw",
+      "server_port": 17625,
+      "password": "573239182shen",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "us07.jiasudu.pw",
+      "server_port": 17625,
+      "password": "573239182shen",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 16,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
